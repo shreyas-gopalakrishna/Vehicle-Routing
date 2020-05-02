@@ -31,4 +31,22 @@ To study, implement and analyze the Vehicle Routing Problem with Simultaneous Pi
 4. [Christofides-Eilon VRP instances](http://neo.lcc.uma.es/vrp/vrp-instances/capacitated-vrp-instances/)-Dataset.
 
 
-### Visualization
+### Visualizations
+
+### Capacity Vehicle Routing Problem
+![](https://github.com/shreyas-gopalakrishna/Vehicle-Routing/blob/master/Images/CVRP_1.png)
+*P-n16-k8.vrp - Augerat et al. Set - P* <br/>
+
+![](https://github.com/shreyas-gopalakrishna/Vehicle-Routing/blob/master/Images/CVRP_2.png)
+*P-n20-k2.vrp - Augerat et al. Set - P* <br/>
+
+### Vehicle Routing Problem with Simultaneous Pickup and Delivery
+![](https://github.com/shreyas-gopalakrishna/Vehicle-Routing/blob/master/Images/VRPSPD_1.png)
+*E-N13-K4.vrp - Christofides and Eilon* <br/>
+
+![](https://github.com/shreyas-gopalakrishna/Vehicle-Routing/blob/master/Images/VRPSPD_2.png)
+*E-N22-K4.vrp - Christofides and Eilon* <br/>
+
+![](https://github.com/shreyas-gopalakrishna/Vehicle-Routing/blob/master/Images/VRPSPD_3.png)
+*E-N30-K4.vrp - Christofides and Eilon* <br/>
+
