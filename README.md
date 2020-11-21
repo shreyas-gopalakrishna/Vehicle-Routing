@@ -5,7 +5,6 @@
  - **Shreyas Gopalakrishna**
 
 Presentation link - https://drive.google.com/open?id=1cuwH8pz-qi_U7fBUoLefFywwQKemDa2afLCOkCug9EM <br/>
-Video link - https://drive.google.com/open?id=1xjvLGro100sb-Nu1c3bXA56EtfMFCFPi <br/>
 GitHub link - https://github.com/shreyas-gopalakrishna/Vehicle-Routing/<br/>
 
 The drive links are accessible using colorado.edu accounts 
